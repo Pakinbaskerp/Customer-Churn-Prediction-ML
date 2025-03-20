@@ -8,3 +8,5 @@ By carefully observing the attributes,the appropriate visualization has been per
 The target variable here is 'exited'.
 
 Used algorithms like Support Vector Machine , Random Forest , Decision Trees and K-nearest neighbors.
+
+To raise a new PR
