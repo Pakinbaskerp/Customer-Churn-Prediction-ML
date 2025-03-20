@@ -1,4 +1,6 @@
 # Customer-Churn-Prediction-ML
+To raise a new PR
+
 The objective is to build a classifier for prediction of customer churn.
 
 This dataset was taken from Kaggle and has 10000 samples.
@@ -9,4 +11,3 @@ The target variable here is 'exited'.
 
 Used algorithms like Support Vector Machine , Random Forest , Decision Trees and K-nearest neighbors.
 
-To raise a new PR
